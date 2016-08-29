@@ -1,3 +1,4 @@
-# 第一章
+# 第一章 安装
 
-第一章什么都还没有
+全局安装
+  ```sudo npm install gitbook-cli -g```
