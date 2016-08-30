@@ -1,4 +1,10 @@
-# 第一章 安装
+# 第一章 在线编辑和发布
+  整个流程在gitbook.com中完成；
 
-全局安装
-  ```sudo npm install gitbook-cli -g```
+## 注册gitbook
+
+## 新建book
+
+## 编辑book
+
+## 自动发布book
